@@ -8,9 +8,9 @@
   <img  src="https://github.com/johhncastro/johhncastro/blob/main/johhncastro.svg"
        alt="snake" /></a>
 </div>
-<div align='center'>
+
 ![](https://komarev.com/ghpvc/?username=johhncastro&color=blue)
-</div>
+
 
 
 <!--- stats & Trophy (start) -->
